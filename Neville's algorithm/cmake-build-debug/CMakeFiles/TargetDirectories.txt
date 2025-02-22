@@ -1,0 +1,3 @@
+C:/Users/kacpe/CLionProjects/Neville's algorithm/cmake-build-debug/CMakeFiles/Neville_s_algorithm.dir
+C:/Users/kacpe/CLionProjects/Neville's algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kacpe/CLionProjects/Neville's algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
