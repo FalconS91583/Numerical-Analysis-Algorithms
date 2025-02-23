@@ -1,0 +1,3 @@
+C:/Users/kacpe/CLionProjects/Heron/cmake-build-debug/CMakeFiles/Heron.dir
+C:/Users/kacpe/CLionProjects/Heron/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kacpe/CLionProjects/Heron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
